@@ -1,0 +1,19 @@
+segment_sources:
+  PB26626EE:
+    type: origin_type
+    relation: translation
+    language: en
+  P95988EC9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a2302dce58d548b7b8dfe0b71c0eb151:
+    PB26626EE: 83f999f23df049da9ca5ebd950b881b2
+    P95988EC9: c4c62bdc46eb42aeadb7c9189e3ef8ca
+  0e42003c086240d2a0c1ce6221e719c9:
+    PB26626EE: 7f7bb4ee61b246cb8ba3956f13e568b0
+    P95988EC9: 65dfcb2395db46b5a165abc5a1e705a7
+  4d76e6b11500448a91625a7dfc5203dd:
+    PB26626EE: 7305f7ab21e548ebbbe9537645f50015
+    P95988EC9: d2050c200b8149bab948b35cf4b1659c

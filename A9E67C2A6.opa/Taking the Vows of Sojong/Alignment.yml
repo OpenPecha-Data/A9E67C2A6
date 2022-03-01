@@ -1,0 +1,31 @@
+segment_sources:
+  PB26626EE:
+    type: origin_type
+    relation: translation
+    language: en
+  P95988EC9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  97afe331f5144302b65d6353f3fe13de:
+    PB26626EE: b68028e9fd024c97ba3a5741f65818f3
+    P95988EC9: 6470cba7b6ac451bb8f4565046436276
+  32a786d33d7e47779c26cd402253119e:
+    PB26626EE: b938c32ad902467e807c331d0bfe3ea5
+    P95988EC9: 50cef54c74e54e7dab48c3c33ebe5189
+  bb89e3eb77ad4894a8ab632e6df70c84:
+    PB26626EE: 14a7193147a845bdb987ba20e703a35b
+    P95988EC9: 1647b85df7ff4ac3b049828e641f5dbf
+  1fd05a88f8c84319b16958e98d486061:
+    PB26626EE: aa665bed3a5f4b878b889ccfa3dd345b
+    P95988EC9: d642f43bc0bf49ad9b5dbbf166c32fbf
+  f3919c0dab5b453396332756be8bcadc:
+    PB26626EE: 21beddf7ccf0436fbcdad066fb26bd8e
+    P95988EC9: c52f24e469b34a6781d1be6d3b6b51d3
+  326255aadeb64844af2db572d4febb85:
+    PB26626EE: b48cfb384f98447fa18177dbed622093
+    P95988EC9: 6c921f2fdcb84157a1e435819278d704
+  bb2dbadb011b4aa880c104a53510e150:
+    PB26626EE: 8b6a426e140f4dc383c9f4a4f0feac66
+    P95988EC9: c1410874183c4cc697c9d4b8ccf256c9
